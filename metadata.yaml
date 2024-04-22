@@ -1,5 +1,8 @@
 _repo: L-Van-Velton-Van-der-Linden-b-Oorspronkelijke-roman_73253
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73253-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Daum, P. A. (Paul Adriaan)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paulus_Adrianus_Daum
     - https://nl.wikipedia.org/wiki/Paul_Adriaan_Daum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73253#L-Van-Velton-Van-der-Linden-b-Oorspronkelijke-roman
 gutenberg_issued: '2024-03-24'
 gutenberg_type: Text
 identifiers:
